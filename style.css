@@ -866,7 +866,7 @@
 .screen .text-wrapper-18 {
   position: absolute;
   width: 255px;
-  top: 5px;
+  top: -10px;
   left: 0;
   font-family: "WAGURI TTF";
   font-weight: 400;
